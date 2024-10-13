@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Edu_Institutes"},{"p":"<Unnamed>","l":"EduInstitutesofIndia"},{"p":"<Unnamed>","l":"InstitutesofNatImportance"},{"p":"<Unnamed>","l":"UniversitiesofIndia"}];updateSearchResults();

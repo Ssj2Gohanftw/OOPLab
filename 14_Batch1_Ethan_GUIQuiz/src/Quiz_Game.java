@@ -71,7 +71,7 @@ class Player{
 }
 public class Quiz_Game {
     public static void main(String[] args) {
-        List<QuizQuestion> quizQuestions = loadQuestionsFromCSV("src/Quiz_Questions.csv");
+        List<QuizQuestion> quizQuestions = loadQuestionsFromCSV("Quiz_Questions.csv");
         Scanner s = new Scanner(System.in);
         System.out.println("Welcome to my quiz game!\nPlayer 1,What's your name:");
         String p1_name = s.next();

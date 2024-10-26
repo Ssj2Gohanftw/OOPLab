@@ -4,6 +4,10 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/14_Batch1_EducationalInstitutes/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Batch1_Ethan_Assignment5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Batch1_Ethan_CLIQuizGame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Batch1_Ethan_GUIPenaltyShootout/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Batch1_Ethan_GUIQuiz/src" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

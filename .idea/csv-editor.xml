@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\14_Batch1_Ethan_GUIQuiz\src\Quiz_Questions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
